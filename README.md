@@ -5,7 +5,7 @@
 - Musengwa Himoonga
 
 ## Description:
-This project is a responsive multipage website using CSS Flexbox and Grid.
+This project is a responsive multipage website using CSS Flexbox and Grid. this is our third lab
 
 ## Features:
 ✅ Flexbox for navigation and layout  
